@@ -99,9 +99,11 @@ with open("README.md", "w") as file:
         # Get the weapon names as a string
         tier_weapons_str = " OR ".join(tier_weapons['Name'].tolist())
         # Write the weapon names to the file
+        file.write("```\n")
         file.write(tier_weapons_str)
         # Write a new line
         file.write("\n")
+        file.write("```\n")
 
 
 
