@@ -62,17 +62,27 @@ for url in urls:
     # Add the DataFrame to the complete DataFrame
     complete_weapon_df = pd.concat([complete_weapon_df, weapon_df], ignore_index=True)
  
+# Clean up special charecters in the DataFrame
+# replace charecter '›' with '>' in the Tier column
+complete_weapon_df['Tier'] = complete_weapon_df['Tier'].str.replace('›', '>', regex=True)
+# Replace the "’" with "'" in the Name column
+complete_weapon_df['Name'] = complete_weapon_df['Name'].str.replace('’', "'", regex=True)
+
+# Save dataframes to csv
+# Sort the weapons by name
+csv_output = complete_weapon_df.sort_values(by='Name')
+csv_output.to_csv('complete_weapon_df.csv', index=False)
 
 # list all unique tier names
 print(complete_weapon_df['Tier'].unique())  
 
+# List all columns in the DataFrame
+print(complete_weapon_df.columns)
+
 # Remove Exotics from the DataFrame we don't want to consider these. 
 no_exotics_df = complete_weapon_df[complete_weapon_df['Archetype'] != 'Exotic']
 
-# replace charecter '›' with '>' in the Tier column
-no_exotics_df['Tier'] = no_exotics_df['Tier'].str.replace('›', '>', regex=True)
-# Replace the "’" with "'" in the Name column
-no_exotics_df['Name'] = no_exotics_df['Name'].str.replace('’', "'", regex=True)
+
 
 # Tier names we consider, note this is with > charecters cleaned up. 
 tier_names = [
