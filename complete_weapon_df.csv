@@ -8,30 +8,33 @@ Art,Name,Type,Archetype,Rarity,Requirements,Ammo,Element,Tier,Excels,Source,Craf
 ,Aberrant Action,Sidearm,Rocket-Assisted,Legendary,Episode 1: Echoes, Special, Solar,A > Strong,PvE,Echoes Activities, Yes, Episode 1: Echoes,The Final Shape,Energy,Special,Solar,Craftable,Top-tier,A › Strong
 ,Abide the Return,Sword,Adaptive,Legendary,Free-to-Play, Heavy, Solar,B > Average,PvE,Shattered Throne Dungeon, No, Free-to-Play,Season 14,Heavy,Heavy,Solar,No,,B › Average
 ,Abyss Defiant,Auto Rifle,High-Impact,Legendary,Free-to-Play, Primary, Solar,A > Strong,PvE,Crota's End Raid, Yes, Free-to-Play,Season 22,Energy,Primary,Solar,Craftable,Top-tier,A › Strong
-,Abyssal Edge,Sword,Wave,Legendary,Episode 3: Heretic, Heavy, Strand,A > Strong,PvE,Heresy Activities, No, Episode 3: Heretic,Episode 3,Heavy,Heavy,Strand,No,Top-tier,A › Strong
+,Abyssal Edge,Sword,Wave,Legendary,Episode 3: Heresy, Heavy, Strand,A > Strong,PvE,Heresy Activities, No, Episode 3: Heresy,Episode 3,Heavy,Heavy,Strand,No,Top-tier,A › Strong
 ,Acasia's Dejection,Trace Rifle,Adaptive,Legendary,Lightfall, Special, Solar,S > Best,PvE,Root of Nightmares Raid, Yes, Lightfall,Season 20,Energy,Special,Solar,Craftable,Top-tier,S › Best
 ,Accrued Redemption,Combat Bow,Precision,Legendary,Shadowkeep Pack, Primary, Kinetic,S > Best,PvE + PvP,Garden of Salvation Raid, Yes, Shadowkeep Pack,Season 8,Kinetic,Primary,Kinetic,Craftable,Top-tier,S › Best
 ,Ace of Spades,Hand Cannon,Exotic,Exotic,Forsaken Pack, Primary, Kinetic,A > Strong,PvP,Exotic Kiosk, No, Forsaken Pack,Season 4,Kinetic,Primary,Kinetic,No,Top-tier,A › Strong
 ,Acosmic,Grenade Launcher,Rapid-Fire,Legendary,Free-to-Play, Heavy, Void,C > Weak,-,Event: Festival of the Lost, No, Free-to-Play,Episode 2,Heavy,Heavy,Void,No,,C › Weak
-,Adamantite,Auto Rifle,Support,Legendary,Episode 3: Heretic, Primary, Strand,S > Best,PvE,Heresy Activities, No, Episode 3: Heretic,Episode 3,Kinetic,Primary,Strand,No,Top-tier,S › Best
+,Adamantite,Auto Rifle,Support,Legendary,Episode 3: Heresy, Primary, Strand,S > Best,PvE,Heresy Activities, No, Episode 3: Heresy,Episode 3,Kinetic,Primary,Strand,No,Top-tier,S › Best
 ,Adhortative,Pulse Rifle,Adaptive,Legendary,Free-to-Play, Primary, Solar,A > Strong,PvE,Undying, Yes, Free-to-Play,Season 23,Energy,Primary,Solar,Craftable,Top-tier,A › Strong
 ,Adjudicator,Submachine Gun,Precision,Legendary,Free-to-Play, Primary, Kinetic,B > Average,PvE + PvP,Prophecy Dungeon, No, Free-to-Play,Season 23,Kinetic,Primary,Kinetic,No,,B › Average
 ,Admetus-D,Scout Rifle,High-Impact,Legendary,Free-to-Play, Primary, Void,B > Average,PvE + PvP,World loot pool, No, Free-to-Play,Episode 3,Energy,Primary,Void,No,,B › Average
 ,Adored,Sniper Rifle,Adaptive,Legendary,Free-to-Play, Special, Arc,B > Average,PvP,Exotic Kiosk, No, Free-to-Play,Season 12,Energy,Special,Arc,No,,B › Average
 ,Adverse Possession IX,Scout Rifle,Precision,Legendary,Free-to-Play, Primary, Arc,D > Worst,-,World loot pool, No, Free-to-Play,The Final Shape,Energy,Primary,Arc,No,,D › Worst
-,Afterlight,Fusion Rifle,Adaptive,Legendary,Episode 3: Heretic, Special, Void,A > Strong,PvE,Heresy Activities, No, Episode 3: Heretic,Episode 3,Energy,Special,Void,No,Top-tier,A › Strong
+,Afterlight,Fusion Rifle,Adaptive,Legendary,Episode 3: Heresy, Special, Void,A > Strong,PvE,Heresy Activities, No, Episode 3: Heresy,Episode 3,Energy,Special,Void,No,Top-tier,A › Strong
+,Agape,Hand Cannon,Heavy Burst,Legendary,Free-to-Play, Primary, Solar,A > Strong,PvE + PvP,Kepler, No, Free-to-Play,The Edge of Fate,Energy,Primary,Solar,No,Top-tier,A › Strong
 ,Age-Old Bond,Auto Rifle,High-Impact,Legendary,Forsaken Pack, Primary, Void,A > Strong,PvE,Last Wish Raid, Yes, Forsaken Pack,Season 4,Energy,Primary,Void,Craftable,Top-tier,A › Strong
 ,Ager's Scepter,Trace Rifle,Exotic,Exotic,Beyond Light Pack, Special, Stasis,B > Average,PvE,Exotic Kiosk, No, Beyond Light Pack,Season 15,Kinetic,Special,Stasis,No,,B › Average
-,Aisha's Embrace,Scout Rifle,Rapid-Fire,Legendary,The Final Shape, Primary, Void,C > Weak,PvE,Trials of Osiris, No, The Final Shape,Season 16,Energy,Primary,Void,No,,C › Weak
+,Ahab Char,Auto Rifle,Rapid-Fire,Legendary,The Edge of Fate, Primary, Solar,A > Strong,PvP,Portal Activities, No, The Edge of Fate,The Edge of Fate,Energy,Primary,Solar,No,Top-tier,A › Strong
+,Aisha's Embrace,Scout Rifle,Rapid-Fire,Legendary,The Edge of Fate, Primary, Void,C > Weak,PvE,Trials of Osiris, No, The Edge of Fate,The Edge of Fate,Energy,Primary,Void,No,,C › Weak
 ,Albedo Wing,Glaive,Aggressive,Legendary,Free-to-Play, Special, Arc,S > Best,PvE + PvP,Event: Dawning, No, Free-to-Play,Season 23,Energy,Special,Arc,No,Top-tier,S › Best
 ,Albruna-D,Sniper Rifle,Aggressive,Legendary,Free-to-Play, Special, Arc,B > Average,PvE + PvP,Playlist: Gambit, No, Free-to-Play,Season 19,Energy,Special,Arc,No,,B › Average
 ,Allied Demand,Sidearm,Adaptive,Legendary,Free-to-Play, Primary, Kinetic,B > Average,PvP,Iron Banner, No, Free-to-Play,Season 18,Kinetic,Primary,Kinetic,No,,B › Average
 ,Ammit AR2,Auto Rifle,Precision,Legendary,Free-to-Play, Primary, Solar,S > Best,PvE + PvP,Gunsmith, Yes, Free-to-Play,Season 18,Energy,Primary,Solar,Craftable,Top-tier,S › Best
-,Anamnesis,Combat Bow,Lightweight,Legendary,Episode 3: Heretic, Primary, Void,A > Strong,PvE,Heresy Activities, No, Episode 3: Heretic,Episode 3,Energy,Primary,Void,No,Top-tier,A › Strong
+,Anamnesis,Combat Bow,Lightweight,Legendary,Episode 3: Heresy, Primary, Void,A > Strong,PvE,Heresy Activities, No, Episode 3: Heresy,Episode 3,Energy,Primary,Void,No,Top-tier,A › Strong
 ,Anarchy,Grenade Launcher,Exotic,Exotic,Forsaken Pack, Heavy, Arc,A > Strong,PvE,Exotic Kiosk, No, Forsaken Pack,Season 5,Heavy,Heavy,Arc,No,Top-tier,A › Strong
 ,Ancient Gospel,Hand Cannon,Adaptive,Legendary,Shadowkeep Pack, Primary, Void,A > Strong,PvE,Garden of Salvation Raid, Yes, Shadowkeep Pack,Season 8,Energy,Primary,Void,Craftable,Top-tier,A › Strong
 ,Annual Skate,Hand Cannon,Adaptive,Legendary,Free-to-Play, Primary, Solar,D > Worst,-,World loot pool, No, Free-to-Play,Season 15,Energy,Primary,Solar,No,,D › Worst
 ,Anonymous Autum,Sidearm,Lightweight,Legendary,Free-to-Play, Primary, Arc,A > Strong,PvE + PvP,Playlist: Crucible, No, Free-to-Play,Episode 2,Energy,Primary,Arc,No,Top-tier,A › Strong
+,Antedate,Submachine Gun,Adaptive,Legendary,The Edge of Fate, Primary, Arc,S > Best,PvP,The Desert Perpetual Raid, No, The Edge of Fate,The Edge of Fate,Energy,Primary,Arc,No,Top-tier,S › Best
 ,Apex Predator,Rocket Launcher,Adaptive,Legendary,Forsaken Pack, Heavy, Solar,S > Best,PvE,Last Wish Raid, Yes, Forsaken Pack,Season 4,Heavy,Heavy,Solar,Craftable,Top-tier,S › Best
 ,Apostate,Sniper Rifle,Rapid-Fire,Legendary,Free-to-Play, Special, Arc,C > Weak,-,Moon, No, Free-to-Play,Season 13,Energy,Special,Arc,No,,C › Weak
 ,Appetence,Trace Rifle,Adaptive,Legendary,Lightfall, Special, Stasis,A > Strong,PvE,Starcrossed, Yes, Lightfall,Season 23,Kinetic,Special,Stasis,Craftable,Top-tier,A › Strong
@@ -44,6 +47,9 @@ Art,Name,Type,Archetype,Rarity,Requirements,Ammo,Element,Tier,Excels,Source,Craf
 ,Arsenic Bite-4b,Combat Bow,Lightweight,Legendary,Free-to-Play, Primary, Arc,C > Weak,-,World loot pool, No, Free-to-Play,Season 11,Energy,Primary,Arc,No,,C › Weak
 ,Ascendancy,Rocket Launcher,Precision,Legendary,Free-to-Play, Heavy, Solar,C > Weak,-,Exotic Kiosk, No, Free-to-Play,Season 15,Heavy,Heavy,Solar,No,,C › Weak
 ,Astral Horizon,Shotgun,Aggressive,Legendary,The Final Shape, Special, Kinetic,B > Average,PvP,Trials of Osiris, No, The Final Shape,Season 10,Kinetic,Special,Kinetic,No,,B › Average
+,Aureus Neutralizer,Hand Cannon,Spread Shot,Legendary,The Edge of Fate, Primary, Kinetic,,,Trials of Osiris, No, The Edge of Fate,The Edge of Fate,Kinetic,Primary,Kinetic,No,,
+,Auric Disabler,Auto Rifle,Precision,Legendary,The Edge of Fate, Primary, Strand,,,Trials of Osiris, No, The Edge of Fate,The Edge of Fate,Kinetic,Primary,Strand,No,,
+,Aurora Dawn,Sword,Wave,Legendary,The Edge of Fate, Heavy, Stasis,,,Edge of Fate Activities, No, The Edge of Fate,The Edge of Fate,Heavy,Heavy,Stasis,No,,
 ,Aurvandil FR6,Fusion Rifle,High-Impact,Legendary,Free-to-Play, Special, Stasis,A > Strong,PvE,Gunsmith, No, Free-to-Play,Season 19,Kinetic,Special,Stasis,No,Top-tier,A › Strong
 ,Austringer,Hand Cannon,Adaptive,Legendary,Beyond Light Pack, Primary, Kinetic,A > Strong,PvE + PvP,Presage, Yes, Beyond Light Pack,Season 17,Kinetic,Primary,Kinetic,Craftable,Top-tier,A › Strong
 ,Autumn Wind,Pulse Rifle,Rapid-Fire,Legendary,Free-to-Play, Primary, Kinetic,B > Average,PvP,Playlist: Crucible, No, Free-to-Play,Season 20,Kinetic,Primary,Kinetic,No,,B › Average
@@ -52,7 +58,7 @@ Art,Name,Type,Archetype,Rarity,Requirements,Ammo,Element,Tier,Excels,Source,Craf
 ,Backfang,Glaive,Rapid-Fire,Legendary,Free-to-Play, Special, Arc,B > Average,PvE,Playlist: Gambit, No, Free-to-Play,Episode 3,Energy,Special,Arc,No,,B › Average
 ,Bad Juju,Pulse Rifle,Exotic,Exotic,Forsaken Pack, Primary, Kinetic,B > Average,PvE,Exotic Kiosk, No, Forsaken Pack,Season 7,Kinetic,Primary,Kinetic,No,,B › Average
 ,Bad Omens,Rocket Launcher,Aggressive,Legendary,Free-to-Play, Heavy, Void,D > Worst,-,World loot pool, No, Free-to-Play,Season 11,Heavy,Heavy,Void,No,,D › Worst
-,Barrow-Dyad,Submachine Gun,Exotic,Exotic,Episode 3: Heretic, Primary, Strand,A > Strong,PvE,Exotic Quest, No, Episode 3: Heretic,Episode 3,Kinetic,Primary,Strand,No,Top-tier,A › Strong
+,Barrow-Dyad,Submachine Gun,Exotic,Exotic,Episode 3: Heresy, Primary, Strand,A > Strong,PvE,Exotic Quest, No, Episode 3: Heresy,Episode 3,Kinetic,Primary,Strand,No,Top-tier,A › Strong
 ,Basso Ostinato,Shotgun,Rapid-Fire,Legendary,Lightfall, Special, Void,A > Strong,PvE,Terminal Overload, No, Lightfall,Season 20,Energy,Special,Void,No,Top-tier,A › Strong
 ,Bastion,Fusion Rifle,Exotic,Exotic,Shadowkeep Pack, Special, Kinetic,A > Strong,PvE,Exotic Kiosk, No, Shadowkeep Pack,Season 9,Kinetic,Special,Kinetic,No,Top-tier,A › Strong
 ,Battle Scar,Pulse Rifle,Lightweight,Legendary,Free-to-Play, Primary, Kinetic,A > Strong,PvE + PvP,Lost Sector, No, Free-to-Play,Season 20,Kinetic,Primary,Kinetic,No,Top-tier,A › Strong
@@ -72,6 +78,8 @@ Art,Name,Type,Archetype,Rarity,Requirements,Ammo,Element,Tier,Excels,Source,Craf
 ,Blowout,Rocket Launcher,Adaptive,Legendary,Free-to-Play, Heavy, Arc,B > Average,PvE,Playlist: Crucible, No, Free-to-Play,Season 19,Heavy,Heavy,Arc,No,,B › Average
 ,Bold Endings,Hand Cannon,Heavy Burst,Legendary,The Final Shape, Primary, Stasis,A > Strong,PvE,The Pale Heart, Yes, The Final Shape,The Final Shape,Kinetic,Primary,Stasis,Craftable,Top-tier,A › Strong
 ,Bonechiller,Shotgun,Pinpoint Slug,Legendary,Free-to-Play, Special, Void,D > Worst,-,Europa, No, Free-to-Play,Season 12,Energy,Special,Void,No,,D › Worst
+,Boomslang-4FR,Linear Fusion Rifle,Adaptive,Legendary,The Edge of Fate, Heavy, Arc,,,Edge of Fate Activities, No, The Edge of Fate,The Edge of Fate,Heavy,Heavy,Arc,No,,
+,Boomslang-4FR,Linear Fusion Rifle,Adaptive,Legendary,The Edge of Fate, Heavy, Arc,,,Edge of Fate Activities, No, The Edge of Fate,The Edge of Fate,Heavy,Heavy,Arc,No,,
 ,Boondoggle Mk. 55,Submachine Gun,Aggressive,Legendary,Free-to-Play, Primary, Kinetic,A > Strong,PvP,World loot pool, No, Free-to-Play,Episode 3,Kinetic,Primary,Kinetic,No,Top-tier,A › Strong
 ,Borealis,Sniper Rifle,Exotic,Exotic,Free-to-Play, Special, Void,D > Worst,-,Exotic Engram, No, Free-to-Play,Season 1,Energy,Special,Void,No,,D › Worst
 ,Borrowed Time,Submachine Gun,Aggressive,Legendary,Free-to-Play, Primary, Solar,C > Weak,-,Playlist: Gambit, No, Free-to-Play,Season 14,Energy,Primary,Solar,No,,C › Weak
@@ -170,7 +178,7 @@ Art,Name,Type,Archetype,Rarity,Requirements,Ammo,Element,Tier,Excels,Source,Craf
 ,Disparity,Pulse Rifle,Aggressive Burst,Legendary,The Witch Queen, Primary, Stasis,A > Strong,PvE,Operation: Seraph's Shield, Yes, Witch Queen,Season 19,Kinetic,Primary,Stasis,Craftable,Top-tier,A › Strong
 ,Distant Tumulus,Sniper Rifle,Rapid-Fire,Legendary,Free-to-Play, Special, Solar,C > Weak,-,Xûr, No, Free-to-Play,Season 10,Energy,Special,Solar,No,,C › Weak
 ,Divinity,Trace Rifle,Exotic,Exotic,Shadowkeep Pack, Special, Arc,S > Best,PvE,Exotic Quest, No, Shadowkeep Pack,Season 8,Energy,Special,Arc,No,Top-tier,S › Best
-,Division,Sidearm,Heavy Burst,Legendary,Episode 3: Heretic, Primary, Arc,A > Strong,PvE + PvP,Heresy Activities, No, Episode 3: Heretic,Episode 3,Energy,Primary,Arc,No,Top-tier,A › Strong
+,Division,Sidearm,Heavy Burst,Legendary,Episode 3: Heresy, Primary, Arc,A > Strong,PvE + PvP,Heresy Activities, No, Episode 3: Heresy,Episode 3,Energy,Primary,Arc,No,Top-tier,A › Strong
 ,Doom of Chelchis,Scout Rifle,Precision,Legendary,Free-to-Play, Primary, Void,A > Strong,PvE,King's Fall Raid, Yes, Free-to-Play,Season 18,Energy,Primary,Void,Craftable,Top-tier,A › Strong
 ,Doomed Petitioner,Linear Fusion Rifle,Aggressive,Legendary,Lightfall, Heavy, Void,S > Best,PvE,Starcrossed, Yes, Lightfall,Season 23,Heavy,Heavy,Void,Craftable,Top-tier,S › Best
 ,Doomed Petitioner,Linear Fusion Rifle,Aggressive,Legendary,Lightfall, Heavy, Void,S > Best,PvE,Starcrossed, Yes, Lightfall,Season 23,Heavy,Heavy,Void,Craftable,Top-tier,S › Best
@@ -212,8 +220,8 @@ Art,Name,Type,Archetype,Rarity,Requirements,Ammo,Element,Tier,Excels,Source,Craf
 ,Exuviae,Hand Cannon,Aggressive,Legendary,Episode 2: Revenant, Primary, Stasis,B > Average,PvE,Revenant Activities, No, Episode 2: Revenant,Episode 2,Kinetic,Primary,Stasis,No,,B › Average
 ,Eyasluna,Hand Cannon,Adaptive,Legendary,30th Anniversary, Primary, Stasis,B > Average,PvE + PvP,Grasp of Avarice Dungeon, No, 30th Anniversary,30th Anniversary event,Kinetic,Primary,Stasis,No,,B › Average
 ,Eye of Sol,Sniper Rifle,Adaptive,Legendary,The Final Shape, Special, Kinetic,S > Best,PvP,Trials of Osiris, No, The Final Shape,Season 10,Kinetic,Special,Kinetic,No,Top-tier,S › Best
-,Eyes Unveiled,Linear Fusion Rifle,Precision,Legendary,Episode 3: Heretic, Heavy, Void,B > Average,PvP,Heresy Activities, No, Episode 3: Heretic,Episode 3,Heavy,Heavy,Void,No,,B › Average
-,Eyes Unveiled,Linear Fusion Rifle,Precision,Legendary,Episode 3: Heretic, Heavy, Void,B > Average,PvP,Heresy Activities, No, Episode 3: Heretic,Episode 3,Heavy,Heavy,Void,No,,B › Average
+,Eyes Unveiled,Linear Fusion Rifle,Precision,Legendary,Episode 3: Heresy, Heavy, Void,B > Average,PvP,Heresy Activities, No, Episode 3: Heresy,Episode 3,Heavy,Heavy,Void,No,,B › Average
+,Eyes Unveiled,Linear Fusion Rifle,Precision,Legendary,Episode 3: Heresy, Heavy, Void,B > Average,PvP,Heresy Activities, No, Episode 3: Heresy,Episode 3,Heavy,Heavy,Void,No,,B › Average
 ,Eyes of Tomorrow,Rocket Launcher,Exotic,Exotic,Beyond Light Pack, Heavy, Solar,C > Weak,-,Deep Stone Crypt Raid, No, Beyond Light Pack,Season 12,Heavy,Heavy,Solar,No,,C › Weak
 ,Fair Judgment,Auto Rifle,Precision,Legendary,Free-to-Play, Primary, Stasis,A > Strong,PvE + PvP,Playlist: Pursuit, No, Free-to-Play,Episode 2,Kinetic,Primary,Stasis,No,Top-tier,A › Strong
 ,Faith-Keeper,Rocket Launcher,Precision,Legendary,Episode 1: Echoes, Heavy, Void,C > Weak,-,Echoes Activities, Yes, Episode 1: Echoes,The Final Shape,Heavy,Heavy,Void,Craftable,,C › Weak
@@ -225,27 +233,30 @@ Art,Name,Type,Archetype,Rarity,Requirements,Ammo,Element,Tier,Excels,Source,Craf
 ,Farewell,Sidearm,Lightweight,Legendary,Free-to-Play, Primary, Kinetic,C > Weak,-,World loot pool, No, Free-to-Play,Season 14,Kinetic,Primary,Kinetic,No,,C › Weak
 ,Fatebringer,Hand Cannon,Adaptive,Legendary,Free-to-Play, Primary, Kinetic,S > Best,PvE + PvP,Vault of Glass Raid, Yes, Free-to-Play,Episode 3,Kinetic,Primary,Kinetic,Craftable,Top-tier,S › Best
 ,Father's Sins,Sniper Rifle,Rapid-Fire,Legendary,The Witch Queen, Special, Void,B > Average,PvP,Wellspring, Yes, Witch Queen,Season 16,Energy,Special,Void,Craftable,,B › Average
+,Faustus Decline,Sidearm,Lightweight,Legendary,The Edge of Fate, Primary, Stasis,,,Edge of Fate Campaign, No, The Edge of Fate,The Edge of Fate,Kinetic,Primary,Stasis,No,,
 ,Fel Taradiddle,Combat Bow,Lightweight,Legendary,Free-to-Play, Primary, Kinetic,B > Average,PvE,Wellspring, Yes, Free-to-Play,Season 16,Kinetic,Primary,Kinetic,Craftable,,B › Average
 ,Felwinter's Lie,Shotgun,Aggressive,Legendary,Free-to-Play, Special, Solar,A > Strong,PvP,Exotic Kiosk, No, Free-to-Play,Season 10,Energy,Special,Solar,No,Top-tier,A › Strong
+,Festival Flight,Grenade Launcher,Area Denial,Legendary,Free-to-Play, Special, Strand,,,Event: Solstice, No, Free-to-Play,The Edge of Fate,Kinetic,Special,Strand,No,,
 ,Final Warning,Sidearm,Exotic,Exotic,Lightfall, Primary, Strand,B > Average,PvE + PvP,Exotic Quest, No, Lightfall,Season 20,Kinetic,Primary,Strand,No,,B › Average
 ,Finality's Auger,Linear Fusion Rifle,Exotic,Exotic,The Final Shape Dungeon Key, Heavy, Solar,B > Average,PvE,Sundered Doctrine Dungon, No, The Final Shape Dungeon Key,Episode 3,Heavy,Heavy,Solar,No,,B › Average
 ,Finality's Auger,Linear Fusion Rifle,Exotic,Exotic,The Final Shape Dungeon Key, Heavy, Solar,B > Average,PvE,Sundered Doctrine Dungon, No, The Final Shape Dungeon Key,Episode 3,Heavy,Heavy,Solar,No,,B › Average
 ,Finite Impactor,Hand Cannon,Aggressive,Legendary,Free-to-Play, Primary, Arc,D > Worst,-,Iron Banner, No, Free-to-Play,Season 14,Energy,Primary,Arc,No,,D › Worst
+,Finite Maybe,Fusion Rifle,Aggressive,Legendary,The Edge of Fate, Special, Solar,S > Best,PvE,The Desert Perpetual Raid, No, The Edge of Fate,The Edge of Fate,Energy,Special,Solar,No,Top-tier,S › Best
 ,Fioritura-59,Sidearm,Rapid-Fire,Legendary,Free-to-Play, Primary, Void,B > Average,PvE + PvP,Gunsmith, No, Free-to-Play,Season 19,Energy,Primary,Void,No,,B › Average
 ,Fire and Forget,Linear Fusion Rifle,Aggressive,Legendary,The Witch Queen, Heavy, Stasis,C > Weak,-,Operation: Seraph's Shield, Yes, Witch Queen,Season 19,Heavy,Heavy,Stasis,Craftable,,C › Weak
 ,Fire and Forget,Linear Fusion Rifle,Aggressive,Legendary,The Witch Queen, Heavy, Stasis,C > Weak,-,Operation: Seraph's Shield, Yes, Witch Queen,Season 19,Heavy,Heavy,Stasis,Craftable,,C › Weak
 ,Firefright,Auto Rifle,Precision,Legendary,Beyond Light Pack, Primary, Kinetic,C > Weak,-,Presage, Yes, Beyond Light Pack,Season 17,Kinetic,Primary,Kinetic,Craftable,,C › Weak
 ,"First In, Last Out",Shotgun,Pinpoint Slug,Legendary,Free-to-Play, Special, Arc,C > Weak,PvE,World loot pool, No, Free-to-Play,Season 11,Energy,Special,Arc,No,,C › Weak
-,Fixed Odds,Machine Gun,High-Impact,Legendary,Witch Queen Dungeon Key, Heavy, Solar,B > Average,PvE,Duality Dungeon, Yes, Episode 3: Heretic,Season 17,Heavy,Heavy,Solar,Craftable,,B › Average
+,Fixed Odds,Machine Gun,High-Impact,Legendary,Witch Queen Dungeon Key, Heavy, Solar,B > Average,PvE,Duality Dungeon, Yes,,Season 17,Heavy,Heavy,Solar,Craftable,,B › Average
 ,Forbearance,Grenade Launcher,Wave,Legendary,The Witch Queen, Special, Arc,S > Best,PvE,Vow of the Disciple Raid, Yes, Witch Queen,Season 16,Energy,Special,Arc,Craftable,Top-tier,S › Best
 ,Forbearance (Brave),Grenade Launcher,Wave,Legendary,Free-to-Play, Special, Arc,S > Best,PvE,Onslaught Activity, No, Free-to-Play,Into the Light,Energy,Special,Arc,No,Top-tier,S › Best
 ,Forensic Nightmare,Submachine Gun,Precision,Legendary,Free-to-Play, Primary, Stasis,D > Worst,-,Throne World, Yes, Free-to-Play,Season 16,Kinetic,Primary,Stasis,Craftable,,D › Worst
 ,Forerunner,Sidearm,Exotic,Exotic,Free-to-Play, Special, Kinetic,A > Strong,PvE + PvP,Exotic Quest, No, Free-to-Play,30th Anniversary event,Kinetic,Special,Kinetic,No,Top-tier,A › Strong
 ,Forge's Pledge,Pulse Rifle,Adaptive,Legendary,Free-to-Play, Primary, Solar,C > Weak,-,Iron Banner, No, Free-to-Play,Season 15,Energy,Primary,Solar,No,,C › Weak
-,Forgiveness,Sidearm,Aggressive Burst,Legendary,The Final Shape, Primary, Arc,A > Strong,PvE + PvP,Trials of Osiris, No, The Final Shape,Season 17,Energy,Primary,Arc,No,Top-tier,A › Strong
+,Forgiveness,Sidearm,Aggressive Burst,Legendary,The Edge of Fate, Primary, Arc,A > Strong,PvE + PvP,Trials of Osiris, No, The Edge of Fate,The Edge of Fate,Energy,Primary,Arc,No,Top-tier,A › Strong
 ,Forthcoming Deviance,Glaive,Rapid-Fire,Legendary,The Final Shape, Special, Void,A > Strong,PvE,Salvation's Edge Raid, Yes, The Final Shape,The Final Shape,Energy,Special,Void,Craftable,Top-tier,A › Strong
 ,Fortissimo-11,Shotgun,Pinpoint Slug,Legendary,Free-to-Play, Special, Kinetic,B > Average,PvE + PvP,Vanguard Focusing, No, Free-to-Play,Season 16,Kinetic,Special,Kinetic,No,,B › Average
-,Fortunate Star,Combat Bow,Lightweight,Legendary,Free-to-Play, Primary, Void,A > Strong,PvE,Event: Solstice, No, Free-to-Play,The Final Shape,Energy,Primary,Void,No,Top-tier,A › Strong
+,Fortunate Star,Combat Bow,Lightweight,Legendary,Free-to-Play, Primary, Void,A > Strong,PvE,Event: Solstice, No, Free-to-Play,The Edge of Fate,Energy,Primary,Void,No,Top-tier,A › Strong
 ,Found Verdict,Shotgun,Aggressive,Legendary,Free-to-Play, Special, Arc,B > Average,PvP,Vault of Glass Raid, Yes, Free-to-Play,Episode 3,Energy,Special,Arc,Craftable,,B › Average
 ,Fractethyst,Shotgun,Precision,Legendary,Free-to-Play, Special, Stasis,A > Strong,PvP,Xûr, No, Free-to-Play,Season 15,Kinetic,Special,Stasis,No,Top-tier,A › Strong
 ,Friction Fire,Submachine Gun,Precision,Legendary,Free-to-Play, Primary, Kinetic,D > Worst,-,World loot pool, No, Free-to-Play,Season 12,Kinetic,Primary,Kinetic,No,,D › Worst
@@ -255,6 +266,7 @@ Art,Name,Type,Archetype,Rarity,Requirements,Ammo,Element,Tier,Excels,Source,Craf
 ,Funnelweb,Submachine Gun,Lightweight,Legendary,Free-to-Play, Primary, Void,C > Weak,-,Gunsmith, No, Free-to-Play,Season 16,Energy,Primary,Void,No,,C › Weak
 ,Gallu RR3,Sniper Rifle,Adaptive,Legendary,Free-to-Play, Special, Arc,C > Weak,-,Gunsmith, No, Free-to-Play,Season 17,Energy,Special,Arc,No,,C › Weak
 ,Geodetic HSm,Sword,Adaptive,Legendary,Free-to-Play, Heavy, Void,B > Average,-,Lost Sector, No, Free-to-Play,Season 22,Heavy,Heavy,Void,No,,B › Average
+,Giver's Blessing,Auto Rifle,Rapid-Fire,Legendary,Free-to-Play, Primary, Kinetic,B > Average,-,Kepler, No, Free-to-Play,The Edge of Fate,Kinetic,Primary,Kinetic,No,,B › Average
 ,Gjallarhorn,Rocket Launcher,Exotic,Exotic,30th Anniversary, Heavy, Solar,S > Best,PvE + PvP,Grasp of Avarice Dungeon, No, 30th Anniversary,30th Anniversary event,Heavy,Heavy,Solar,No,Top-tier,S › Best
 ,Glacioclasm,Fusion Rifle,High-Impact,Legendary,Free-to-Play, Special, Void,A > Strong,PvE,Event: Dawning, No, Free-to-Play,Season 12,Energy,Special,Void,No,Top-tier,A › Strong
 ,Glissando-47,Scout Rifle,Precision,Legendary,Free-to-Play, Primary, Strand,C > Weak,PvE,Lost Sector, No, Free-to-Play,Season 21,Kinetic,Primary,Strand,No,,C › Weak
@@ -262,6 +274,7 @@ Art,Name,Type,Archetype,Rarity,Requirements,Ammo,Element,Tier,Excels,Source,Craf
 ,Goldtusk,Sword,Lightweight,Legendary,Free-to-Play, Heavy, Arc,C > Weak,-,Engram Focusing, Yes, Free-to-Play,Season 20,Heavy,Heavy,Arc,Craftable,,C › Weak
 ,Grand Overture,Machine Gun,Exotic,Exotic,The Witch Queen, Heavy, Arc,A > Strong,PvE,Exotic Kiosk, No, Witch Queen,Season 16,Heavy,Heavy,Arc,No,Top-tier,A › Strong
 ,Graviton Lance,Pulse Rifle,Exotic,Exotic,Free-to-Play, Primary, Void,S > Best,PvE,Exotic Engram, No, Free-to-Play,Season 1,Energy,Primary,Void,No,Top-tier,S › Best
+,Graviton Spike,Hand Cannon,Exotic,Exotic,The Edge of Fate, Primary, Arc,,,Exotic Quest, No, The Edge of Fate,The Edge of Fate,Energy,Primary,Arc,No,,
 ,Greasy Luck,Glaive,Rapid-Fire,Legendary,Free-to-Play, Special, Solar,A > Strong,PvE,Ghost of the Deep Dungeon, No, Free-to-Play,Season 21,Energy,Special,Solar,No,Top-tier,A › Strong
 ,Gridskipper,Pulse Rifle,Rapid-Fire,Legendary,Episode 2: Revenant, Primary, Void,B > Average,PvP,Splicer Engrams, No, Episode 2: Revenant,Episode 2,Energy,Primary,Void,No,,B › Average
 ,Gunnora's Axe,Shotgun,Pinpoint Slug,Legendary,Free-to-Play, Special, Arc,B > Average,PvE + PvP,Iron Banner, No, Free-to-Play,Season 19,Energy,Special,Arc,No,,B › Average
@@ -272,7 +285,7 @@ Art,Name,Type,Archetype,Rarity,Requirements,Ammo,Element,Tier,Excels,Source,Craf
 ,Hard Light,Auto Rifle,Exotic,Exotic,Free-to-Play, Primary, Void,B > Average,-,Exotic Engram, No, Free-to-Play,Season 1,Energy,Primary,Void,No,,B › Average
 ,Harsh Language,Grenade Launcher,Wave,Legendary,Free-to-Play, Special, Void,A > Strong,PvE,Lost Sector, No, Free-to-Play,Season 20,Energy,Special,Void,No,Top-tier,A › Strong
 ,Hawkmoon,Hand Cannon,Exotic,Exotic,Beyond Light Pack, Primary, Kinetic,A > Strong,PvP,Xûr, No, Beyond Light Pack,Season 12,Kinetic,Primary,Kinetic,No,Top-tier,A › Strong
-,Heartshadow,Sword,Exotic,Exotic,Witch Queen Dungeon Key, Heavy, Void,D > Worst,-,Duality Dungeon, No, Episode 3: Heretic,Season 17,Heavy,Heavy,Void,No,,D › Worst
+,Heartshadow,Sword,Exotic,Exotic,Witch Queen Dungeon Key, Heavy, Void,D > Worst,-,Duality Dungeon, No,,Season 17,Heavy,Heavy,Void,No,,D › Worst
 ,Heir Apparent,Machine Gun,Exotic,Exotic,Free-to-Play, Heavy, Arc,D > Worst,-,Event: Guardian Games, No, Free-to-Play,Season 10,Heavy,Heavy,Arc,No,,D › Worst
 ,Heliocentric QSc,Sidearm,Lightweight,Legendary,Free-to-Play, Primary, Solar,S > Best,PvE + PvP,Lost Sector, No, Free-to-Play,Season 22,Energy,Primary,Solar,No,Top-tier,S › Best
 ,Heretic,Rocket Launcher,Aggressive,Legendary,Free-to-Play, Heavy, Arc,D > Worst,-,Moon, No, Free-to-Play,Season 13,Heavy,Heavy,Arc,No,,D › Worst
@@ -308,6 +321,7 @@ Art,Name,Type,Archetype,Rarity,Requirements,Ammo,Element,Tier,Excels,Source,Craf
 ,Indebted Kindness,Sidearm,Rocket-Assisted,Legendary,Lightfall Dungeon Key, Special, Arc,A > Strong,PvE,Warlord's Ruin Dungeon, No, Lightfall Dungeon Key,Season 23,Energy,Special,Arc,No,Top-tier,A › Strong
 ,Insidious,Pulse Rifle,Aggressive Burst,Legendary,The Witch Queen, Primary, Arc,A > Strong,PvE + PvP,Vow of the Disciple Raid, Yes, Witch Queen,Season 16,Energy,Primary,Arc,Craftable,Top-tier,A › Strong
 ,Insurmountable,Sidearm,Precision,Legendary,Episode 2: Revenant, Primary, Void,A > Strong,PvE + PvP,Revenant Activities, No, Episode 2: Revenant,Episode 2,Energy,Primary,Void,No,Top-tier,A › Strong
+,Intercalary,Auto Rifle,Adaptive,Legendary,The Edge of Fate, Primary, Stasis,A > Strong,PvE,The Desert Perpetual Raid, No, The Edge of Fate,The Edge of Fate,Kinetic,Primary,Stasis,No,Top-tier,A › Strong
 ,Interference VI,Grenade Launcher,Adaptive,Legendary,Free-to-Play, Heavy, Arc,B > Average,-,World loot pool, No, Free-to-Play,Season 10,Heavy,Heavy,Arc,No,,B › Average
 ,Iota Draconis,Fusion Rifle,High-Impact,Legendary,Free-to-Play, Special, Solar,C > Weak,-,Xûr, No, Free-to-Play,Season 15,Energy,Special,Solar,No,,C › Weak
 ,Irukandji,Sniper Rifle,Rapid-Fire,Legendary,Free-to-Play, Special, Stasis,C > Weak,-,Lost Sector, No, Free-to-Play,Season 20,Kinetic,Special,Stasis,No,,C › Weak
@@ -320,6 +334,7 @@ Art,Name,Type,Archetype,Rarity,Requirements,Ammo,Element,Tier,Excels,Source,Craf
 ,Judgment,Hand Cannon,Adaptive,Legendary,Free-to-Play, Primary, Stasis,A > Strong,PvP,Prophecy Dungeon, No, Free-to-Play,Season 23,Kinetic,Primary,Stasis,No,Top-tier,A › Strong
 ,Judgment of Kelgorath,Glaive,Aggressive,Legendary,The Witch Queen, Special, Solar,S > Best,PvE,Operation: Seraph's Shield, Yes, Witch Queen,Season 19,Energy,Special,Solar,Craftable,Top-tier,S › Best
 ,Jurassic Green,Pulse Rifle,Rapid-Fire,Legendary,Free-to-Play, Primary, Solar,A > Strong,PvP,Event: Festival of the Lost, No, Free-to-Play,Episode 2,Energy,Primary,Solar,No,Top-tier,A › Strong
+,Jurispudent,Scout Rifle,High-Impact,Legendary,Free-to-Play, Primary, Stasis,,,Edge of Fate Campaign, No, Free-to-Play,The Edge of Fate,Kinetic,Primary,Stasis,No,,
 ,Just in Case,Sword,Adaptive,Legendary,Free-to-Play, Heavy, Solar,C > Weak,-,Fishing, No, Free-to-Play,Season 21,Heavy,Heavy,Solar,No,,C › Weak
 ,Jötunn,Fusion Rifle,Exotic,Exotic,Forsaken Pack, Special, Solar,C > Weak,-,Exotic Kiosk, No, Forsaken Pack,Season 5,Energy,Special,Solar,No,,C › Weak
 ,Keen Thistle,Sniper Rifle,Aggressive,Legendary,The Final Shape, Special, Solar,S > Best,PvE + PvP,Trials of Osiris, No, The Final Shape,Episode 3,Energy,Special,Solar,No,Top-tier,S › Best
@@ -329,6 +344,7 @@ Art,Name,Type,Archetype,Rarity,Requirements,Ammo,Element,Tier,Excels,Source,Craf
 ,Khvostov 7G-0X,Auto Rifle,Exotic,Exotic,The Final Shape, Primary, Kinetic,S > Best,PvE + PvP,The Pale Heart, No, The Final Shape,The Final Shape,Kinetic,Primary,Kinetic,No,Top-tier,S › Best
 ,Koraxis's Distress,Grenade Launcher,Rapid-Fire,Legendary,Lightfall, Heavy, Strand,B > Average,-,Root of Nightmares Raid, Yes, Lightfall,Season 20,Heavy,Heavy,Strand,Craftable,,B › Average
 ,Krait,Auto Rifle,Rapid-Fire,Legendary,Free-to-Play, Primary, Stasis,B > Average,PvE,Gunsmith, No, Free-to-Play,Season 16,Kinetic,Primary,Stasis,No,,B › Average
+,Lance Ephemeral,Sniper Rifle,Rapid-Fire,Legendary,The Edge of Fate, Special, Strand,S > Best,PvE,The Desert Perpetual Raid, No, The Edge of Fate,The Edge of Fate,Kinetic,Special,Strand,No,Top-tier,S › Best
 ,Laser Painter,Linear Fusion Rifle,Precision,Legendary,Free-to-Play, Heavy, Strand,C > Weak,-,Playlist: Gambit, No, Free-to-Play,Season 21,Heavy,Heavy,Strand,No,,C › Weak
 ,Laser Painter,Linear Fusion Rifle,Precision,Legendary,Free-to-Play, Heavy, Strand,C > Weak,-,Playlist: Gambit, No, Free-to-Play,Season 21,Heavy,Heavy,Strand,No,,C › Weak
 ,Last Dance,Sidearm,Omolon Adaptive,Legendary,Free-to-Play, Primary, Arc,C > Weak,-,World loot pool, No, Free-to-Play,Season 11,Energy,Primary,Arc,No,,C › Weak
@@ -336,6 +352,7 @@ Art,Name,Type,Archetype,Rarity,Requirements,Ammo,Element,Tier,Excels,Source,Craf
 ,Last Man Standing,Shotgun,Aggressive,Legendary,Free-to-Play, Special, Solar,D > Worst,-,Fishing, No, Free-to-Play,Season 21,Energy,Special,Solar,No,,D › Worst
 ,Last Perdition,Pulse Rifle,Adaptive,Legendary,Free-to-Play, Primary, Void,C > Weak,-,World loot pool, No, Free-to-Play,Season 11,Energy,Primary,Void,No,,C › Weak
 ,Last Rite,Scout Rifle,Aggressive,Legendary,Free-to-Play, Primary, Kinetic,B > Average,PvP,Playlist: Pursuit, No, Free-to-Play,Season 21,Kinetic,Primary,Kinetic,No,,B › Average
+,Last Thursday,Pulse Rifle,Adaptive,Legendary,Free-to-Play, Primary, Strand,A > Strong,PvE + PvP,Kepler, No, Free-to-Play,The Edge of Fate,Kinetic,Primary,Strand,No,Top-tier,A › Strong
 ,Le Monarque,Combat Bow,Exotic,Exotic,Forsaken Pack, Primary, Void,S > Best,PvE + PvP,Exotic Kiosk, No, Forsaken Pack,Season 5,Energy,Primary,Void,No,Top-tier,S › Best
 ,Legal Action II,Pulse Rifle,High-Impact,Legendary,Free-to-Play, Primary, Kinetic,B > Average,PvP,Xûr, No, Free-to-Play,Season 15,Kinetic,Primary,Kinetic,No,,B › Average
 ,Legato-11,Shotgun,Pinpoint Slug,Legendary,Free-to-Play, Special, Solar,B > Average,PvE + PvP,World loot pool, No, Free-to-Play,Episode 2,Energy,Special,Solar,No,,B › Average
@@ -347,7 +364,8 @@ Art,Name,Type,Archetype,Rarity,Requirements,Ammo,Element,Tier,Excels,Source,Craf
 ,Liminal Vigil,Sidearm,Heavy Burst,Legendary,Free-to-Play, Primary, Stasis,A > Strong,PvP,Spire of the Watcher Dungeon, No, Free-to-Play,Season 19,Kinetic,Primary,Stasis,No,Top-tier,A › Strong
 ,Line in the Sand,Linear Fusion Rifle,Precision,Legendary,Episode 1: Echoes, Heavy, Arc,B > Average,-,Dawn Engrams, No, Episode 1: Echoes,The Final Shape,Heavy,Heavy,Arc,No,,B › Average
 ,Line in the Sand,Linear Fusion Rifle,Precision,Legendary,Episode 1: Echoes, Heavy, Arc,B > Average,-,Dawn Engrams, No, Episode 1: Echoes,The Final Shape,Heavy,Heavy,Arc,No,,B › Average
-,Lingering Dread,Grenade Launcher,Lightweight,Legendary,Witch Queen Dungeon Key, Special, Stasis,A > Strong,PvE + PvP,Duality Dungeon, No, Episode 3: Heretic,Season 17,Kinetic,Special,Stasis,No,Top-tier,A › Strong
+,Lingering Dread,Grenade Launcher,Lightweight,Legendary,Witch Queen Dungeon Key, Special, Stasis,A > Strong,PvE + PvP,Duality Dungeon, No,,Season 17,Kinetic,Special,Stasis,No,Top-tier,A › Strong
+,Lionfish-4FR,Fusion Rifle,Rapid-Fire,Legendary,Free-to-Play, Special, Stasis,,,Pinnacle Ops, No, Free-to-Play,The Edge of Fate,Kinetic,Special,Stasis,No,,
 ,Liturgy,Grenade Launcher,Double Fire,Legendary,Episode 2: Revenant, Special, Stasis,S > Best,PvE,Revenant Activities, No, Episode 2: Revenant,Episode 2,Kinetic,Special,Stasis,No,Top-tier,S › Best
 ,Live Fire,Scout Rifle,Precision,Legendary,Free-to-Play, Primary, Stasis,C > Weak,-,World loot pool, No, Free-to-Play,Episode 2,Kinetic,Primary,Stasis,No,,C › Weak
 ,Loaded Question,Fusion Rifle,High-Impact,Legendary,Free-to-Play, Special, Arc,B > Average,PvE,Nightfall: The Ordeals, No, Free-to-Play,Season 21,Energy,Special,Arc,No,,B › Average
@@ -383,11 +401,13 @@ Art,Name,Type,Archetype,Rarity,Requirements,Ammo,Element,Tier,Excels,Source,Craf
 ,Memory Interdict,Grenade Launcher,Adaptive,Legendary,Free-to-Play, Heavy, Void,A > Strong,PvP,Xûr, No, Free-to-Play,Season 14,Heavy,Heavy,Void,No,Top-tier,A › Strong
 ,Merciless,Fusion Rifle,Exotic,Exotic,Free-to-Play, Special, Solar,B > Average,PvE,Exotic Engram, No, Free-to-Play,Season 1,Energy,Special,Solar,No,,B › Average
 ,Mercurial Overreach,Sniper Rifle,Adaptive,Legendary,Free-to-Play, Special, Arc,S > Best,PvP,Crucible Competitive, No, Free-to-Play,Season 21,Energy,Special,Arc,No,Top-tier,S › Best
+,Mercury-A,Combat Bow,High-Impact Longbow,Legendary,The Edge of Fate, Primary, Kinetic,B > Average,PvE + PvP,Portal Activities, No, The Edge of Fate,The Edge of Fate,Kinetic,Primary,Kinetic,No,,B › Average
 ,Microcosm,Trace Rifle,Exotic,Exotic,The Final Shape, Heavy, Kinetic,S > Best,PvE,The Pale Heart, No, The Final Shape,The Final Shape,Heavy,Heavy,Kinetic,No,Top-tier,S › Best
 ,Midha's Reckoning,Fusion Rifle,High-Impact,Legendary,Free-to-Play, Special, Arc,B > Average,PvE + PvP,King's Fall Raid, Yes, Free-to-Play,Season 18,Energy,Special,Arc,Craftable,,B › Average
 ,Midnight Coup,Hand Cannon,Adaptive,Legendary,Free-to-Play, Primary, Kinetic,S > Best,PvE,Onslaught Activity, No, Free-to-Play,Into the Light,Kinetic,Primary,Kinetic,No,Top-tier,S › Best
 ,Mindbender's Ambition,Shotgun,Aggressive,Legendary,Free-to-Play, Special, Solar,B > Average,PvP,Nightfall: The Ordeals, No, Free-to-Play,Season 18,Energy,Special,Solar,No,,B › Average
-,Mirror Imago,Submachine Gun,Adaptive,Legendary,Episode 3: Heretic, Primary, Strand,A > Strong,PvP,Heresy Activities, No, Episode 3: Heretic,Episode 3,Kinetic,Primary,Strand,No,Top-tier,A › Strong
+,Mint Retrograde,Pulse Rifle,Rocket-Assisted,Legendary,Free-to-Play, Special, Strand,S > Best,PvE,Portal Activities, No, Free-to-Play,The Edge of Fate,Kinetic,Special,Strand,No,Top-tier,S › Best
+,Mirror Imago,Submachine Gun,Adaptive,Legendary,Episode 3: Heresy, Primary, Strand,A > Strong,PvP,Heresy Activities, No, Episode 3: Heresy,Episode 3,Kinetic,Primary,Strand,No,Top-tier,A › Strong
 ,Mistral Lift,Linear Fusion Rifle,Adaptive,Legendary,Free-to-Play, Heavy, Void,B > Average,PvE,Event: Dawning, No, Free-to-Play,Episode 2,Heavy,Heavy,Void,No,,B › Average
 ,Mistral Lift,Linear Fusion Rifle,Adaptive,Legendary,Free-to-Play, Heavy, Void,B > Average,PvE,Event: Dawning, No, Free-to-Play,Episode 2,Heavy,Heavy,Void,No,,B › Average
 ,Monte Carlo,Auto Rifle,Exotic,Exotic,Shadowkeep Pack, Primary, Kinetic,C > Weak,-,Exotic Engram, No, Shadowkeep Pack,Season 8,Kinetic,Primary,Kinetic,No,,C › Weak
@@ -404,7 +424,7 @@ Art,Name,Type,Archetype,Rarity,Requirements,Ammo,Element,Tier,Excels,Source,Craf
 ,Neoptolemus II,Combat Bow,Precision,Legendary,Free-to-Play, Primary, Kinetic,D > Worst,-,World loot pool, No, Free-to-Play,Episode 2,Kinetic,Primary,Kinetic,No,,D › Worst
 ,Nessa's Oblation,Shotgun,Pinpoint Slug,Legendary,Lightfall, Special, Void,B > Average,PvE,Root of Nightmares Raid, Yes, Lightfall,Season 20,Energy,Special,Void,Craftable,,B › Average
 ,New Pacific Epitaph,Grenade Launcher,Wave,Legendary,Free-to-Play, Special, Stasis,A > Strong,PvE,Ghost of the Deep Dungeon, No, Free-to-Play,Season 21,Kinetic,Special,Stasis,No,Top-tier,A › Strong
-,New Purpose,Pulse Rifle,High-Impact,Legendary,Witch Queen Dungeon Key, Primary, Stasis,A > Strong,PvE + PvP,Duality Dungeon, No, Episode 3: Heretic,Season 17,Kinetic,Primary,Stasis,No,Top-tier,A › Strong
+,New Purpose,Pulse Rifle,High-Impact,Legendary,Witch Queen Dungeon Key, Primary, Stasis,A > Strong,PvE + PvP,Duality Dungeon, No,,Season 17,Kinetic,Primary,Stasis,No,Top-tier,A › Strong
 ,Nezarec's Whisper,Glaive,Adaptive,Legendary,Beyond Light Pack, Special, Arc,C > Weak,-,Presage, Yes, Beyond Light Pack,Season 17,Energy,Special,Arc,Craftable,,C › Weak
 ,Night Terror,Sword,Adaptive,Legendary,Free-to-Play, Heavy, Arc,B > Average,-,Moon, No, Free-to-Play,Season 14,Heavy,Heavy,Arc,No,,B › Average
 ,Night Watch,Scout Rifle,Lightweight,Legendary,Free-to-Play, Primary, Kinetic,C > Weak,-,World loot pool, No, Free-to-Play,Season 11,Kinetic,Primary,Kinetic,No,,C › Weak
@@ -424,6 +444,7 @@ Art,Name,Type,Archetype,Rarity,Requirements,Ammo,Element,Tier,Excels,Source,Craf
 ,Omniscient Eye,Sniper Rifle,Rapid-Fire,Legendary,Shadowkeep Pack, Special, Solar,A > Strong,PvE + PvP,Garden of Salvation Raid, Yes, Shadowkeep Pack,Season 8,Energy,Special,Solar,Craftable,Top-tier,A › Strong
 ,One Small Step,Shotgun,Rapid-Fire,Legendary,Free-to-Play, Special, Kinetic,A > Strong,PvE,Moon, No, Free-to-Play,Season 14,Kinetic,Special,Kinetic,No,Top-tier,A › Strong
 ,One Thousand Voices,Fusion Rifle,Exotic,Exotic,Forsaken Pack, Heavy, Solar,C > Weak,-,Last Wish Raid, No, Forsaken Pack,Season 4,Heavy,Heavy,Solar,No,,C › Weak
+,Opaque Hourglass,Combat Bow,High-Impact,Legendary,The Edge of Fate, Heavy, Arc,,,The Desert Perpetual Raid, No, The Edge of Fate,The Edge of Fate,Heavy,Heavy,Arc,No,,
 ,Optative,Hand Cannon,Precision,Legendary,Free-to-Play, Primary, Void,B > Average,PvE,Undying, Yes, Free-to-Play,Season 23,Energy,Primary,Void,Craftable,,B › Average
 ,Orewing's Maul,Grenade Launcher,Lightweight,Legendary,Free-to-Play, Special, Void,B > Average,PvP,Iron Banner, No, Free-to-Play,Season 11,Energy,Special,Void,No,,B › Average
 ,Origin Story,Auto Rifle,Precision,Legendary,Free-to-Play, Primary, Kinetic,B > Average,PvP,Playlist: Vanguard, No, Free-to-Play,The Final Shape,Kinetic,Primary,Kinetic,No,,B › Average
@@ -431,9 +452,10 @@ Art,Name,Type,Archetype,Rarity,Requirements,Ammo,Element,Tier,Excels,Source,Craf
 ,Out of Bounds,Submachine Gun,Lightweight,Legendary,Free-to-Play, Primary, Arc,B > Average,-,Playlist: Crucible, No, Free-to-Play,Season 18,Energy,Primary,Arc,No,,B › Average
 ,Outbreak Perfected,Pulse Rifle,Exotic,Exotic,Free-to-Play, Primary, Kinetic,S > Best,PvE,Zero Hour, Yes, Free-to-Play,Season 6,Kinetic,Primary,Kinetic,Craftable,Top-tier,S › Best
 ,Outlast,Pulse Rifle,Rapid-Fire,Legendary,Free-to-Play, Primary, Solar,B > Average,PvP,Fishing, No, Free-to-Play,Season 21,Energy,Primary,Solar,No,,B › Average
+,Outrageous Fortune,Grenade Launcher,Rapid-Fire,Legendary,Free-to-Play, Heavy, Solar,,,Pinnacle Ops, No, Free-to-Play,The Edge of Fate,Heavy,Heavy,Solar,No,,
 ,Outrageous Fortune,Grenade Launcher,Rapid-Fire,Legendary,Free-to-Play, Heavy, Solar,D > Worst,-,World loot pool, No, Free-to-Play,Season 11,Heavy,Heavy,Solar,No,,D › Worst
 ,Oversoul Edict,Pulse Rifle,Rapid-Fire,Legendary,Free-to-Play, Primary, Arc,A > Strong,PvE + PvP,Crota's End Raid, Yes, Free-to-Play,Season 22,Energy,Primary,Arc,Craftable,Top-tier,A › Strong
-,PLUG ONE.1,Fusion Rifle,Precision,Legendary,Free-to-Play, Special, Arc,B > Average,PvE,Nightfall: The Ordeals, No, Free-to-Play,Season 14,Energy,Special,Arc,No,,B › Average
+,PLUG ONE.1,Fusion Rifle,Precision,Legendary,Free-to-Play, Special, Arc,A > Strong,PvE + PvP,Nightfall: The Ordeals, No, Free-to-Play,Season 14,Energy,Special,Arc,No,Top-tier,A › Strong
 ,Palmyra-B,Rocket Launcher,Precision,Legendary,Free-to-Play, Heavy, Stasis,D > Worst,-,Gunsmith, Yes, Free-to-Play,Season 16,Heavy,Heavy,Stasis,Craftable,,D › Worst
 ,Parabellum,Submachine Gun,Adaptive,Legendary,Free-to-Play, Primary, Solar,B > Average,-,World loot pool, No, Free-to-Play,Season 23,Energy,Primary,Solar,No,,B › Average
 ,Parasite,Grenade Launcher,Exotic,Exotic,The Witch Queen, Heavy, Solar,S > Best,PvE,Exotic Quest, No, Witch Queen,Season 16,Heavy,Heavy,Solar,No,Top-tier,S › Best
@@ -446,6 +468,7 @@ Art,Name,Type,Archetype,Rarity,Requirements,Ammo,Element,Tier,Excels,Source,Craf
 ,Perpetualis,Auto Rifle,Adaptive,Legendary,Lightfall, Primary, Strand,D > Worst,PvE,Avalon, Yes, Lightfall,Season 20,Kinetic,Primary,Strand,Craftable,,D › Worst
 ,Perses-D,Pulse Rifle,High-Impact,Legendary,Free-to-Play, Primary, Stasis,C > Weak,-,Gunsmith, No, Free-to-Play,Season 16,Kinetic,Primary,Stasis,No,,C › Weak
 ,Persuader,Sniper Rifle,Rapid-Fire,Legendary,Free-to-Play, Special, Void,C > Weak,-,Recovered Red War, No, Free-to-Play,Season 22,Energy,Special,Void,No,,C › Weak
+,Phoneutria Fera,Hand Cannon,Spread Shot,Legendary,The Edge of Fate, Primary, Solar,B > Average,-,Edge of Fate Campaign, No, The Edge of Fate,The Edge of Fate,Energy,Primary,Solar,No,,B › Average
 ,Phyllotactic Spiral,Pulse Rifle,High-Impact,Legendary,Lightfall, Primary, Arc,A > Strong,PvE + PvP,Neomuna, Yes, Lightfall,Season 20,Energy,Primary,Arc,Craftable,Top-tier,A › Strong
 ,Piece of Mind,Pulse Rifle,Rapid-Fire,Legendary,The Witch Queen, Primary, Kinetic,A > Strong,PvP,Vox Obscura, Yes, Witch Queen,Season 16,Kinetic,Primary,Kinetic,Craftable,Top-tier,A › Strong
 ,Pizzicato-22,Submachine Gun,Adaptive,Legendary,Free-to-Play, Primary, Kinetic,C > Weak,-,Gunsmith, No, Free-to-Play,Season 18,Kinetic,Primary,Kinetic,No,,C › Weak
@@ -457,7 +480,8 @@ Art,Name,Type,Archetype,Rarity,Requirements,Ammo,Element,Tier,Excels,Source,Craf
 ,Positive Outlook,Auto Rifle,Precision,Legendary,Free-to-Play, Primary, Void,A > Strong,PvE + PvP,Playlist: Vanguard, No, Free-to-Play,Season 21,Energy,Primary,Void,No,Top-tier,A › Strong
 ,Posterity,Hand Cannon,Precision,Legendary,Beyond Light Pack, Primary, Arc,A > Strong,PvE,Deep Stone Crypt Raid, Yes, Beyond Light Pack,Season 12,Energy,Primary,Arc,Craftable,Top-tier,A › Strong
 ,Praedyth's Revenge,Sniper Rifle,Rapid-Fire,Legendary,Free-to-Play, Special, Kinetic,S > Best,PvE,Vault of Glass Raid, Yes, Free-to-Play,Episode 3,Kinetic,Special,Kinetic,Craftable,Top-tier,S › Best
-,Pre Astyanax IV,Combat Bow,Precision,Legendary,Free-to-Play, Primary, Solar,A > Strong,PvE,Nightfall: The Ordeals, No, Free-to-Play,Season 22,Energy,Primary,Solar,No,Top-tier,A › Strong
+,Pre Astyanax IV,Combat Bow,Precision,Legendary,Free-to-Play, Primary, Solar,A > Strong,PvE,Pinnacle Ops, No, Free-to-Play,The Edge of Fate,Energy,Primary,Solar,No,Top-tier,A › Strong
+,Precipial,Shotgun,Precision,Legendary,Free-to-Play, Special, Void,A > Strong,PvE,Kepler, No, Free-to-Play,The Edge of Fate,Energy,Special,Void,No,Top-tier,A › Strong
 ,Premonition,Pulse Rifle,High-Impact,Legendary,Shadowkeep Pack, Primary, Void,C > Weak,-,Pit of Heresy Dungeon, No, Shadowkeep Pack,Season 13,Energy,Primary,Void,No,,C › Weak
 ,Pressurized Precision,Fusion Rifle,Adaptive,Legendary,Free-to-Play, Special, Strand,A > Strong,PvP,Iron Banner, No, Free-to-Play,Season 21,Kinetic,Special,Strand,No,Top-tier,A › Strong
 ,Pro Memoria,Machine Gun,Aggressive,Legendary,The Final Shape, Heavy, Strand,A > Strong,PvE,The Pale Heart, Yes, The Final Shape,The Final Shape,Heavy,Heavy,Strand,Craftable,Top-tier,A › Strong
@@ -467,10 +491,12 @@ Art,Name,Type,Archetype,Rarity,Requirements,Ammo,Element,Tier,Excels,Source,Craf
 ,Prophet of Doom,Shotgun,Precision,Legendary,Shadowkeep Pack, Special, Arc,S > Best,PvP,Garden of Salvation Raid, Yes, Shadowkeep Pack,Season 8,Energy,Special,Arc,Craftable,Top-tier,S › Best
 ,Prosecutor,Auto Rifle,Precision,Legendary,Free-to-Play, Primary, Arc,A > Strong,PvE + PvP,Prophecy Dungeon, No, Free-to-Play,Season 23,Energy,Primary,Arc,No,Top-tier,A › Strong
 ,Psi Hermetic V,Pulse Rifle,High-Impact,Legendary,Free-to-Play, Primary, Stasis,A > Strong,PvP,Lost Sector, No, Free-to-Play,Season 22,Kinetic,Primary,Stasis,No,Top-tier,A › Strong
-,Psychopomp,Grenade Launcher,Area Denial,Legendary,Episode 3: Heretic, Special, Arc,S > Best,PvE,Heresy Activities, No, Episode 3: Heretic,Episode 3,Energy,Special,Arc,No,Top-tier,S › Best
+,Psychopomp,Grenade Launcher,Area Denial,Legendary,Episode 3: Heresy, Special, Arc,S > Best,PvE,Heresy Activities, No, Episode 3: Heresy,Episode 3,Energy,Special,Arc,No,Top-tier,S › Best
 ,Punching Out,Sidearm,SUROS Rapid-Fire,Legendary,Free-to-Play, Primary, Solar,A > Strong,PvE,Vanguard Focusing, No, Free-to-Play,Season 15,Energy,Primary,Solar,No,Top-tier,A › Strong
 ,Pure Poetry,Hand Cannon,Aggressive,Legendary,Free-to-Play, Primary, Kinetic,C > Weak,-,Vanguard Focusing, No, Free-to-Play,Season 18,Kinetic,Primary,Kinetic,No,,C › Weak
+,Pure Recollection,Shotgun,Heavy Burst,Legendary,Free-to-Play, Special, Void,,,Crucible Ops, No, Free-to-Play,The Edge of Fate,Energy,Special,Void,No,,
 ,Qua Furor V,Machine Gun,Aggressive,Legendary,Free-to-Play, Heavy, Stasis,B > Average,PvE,World loot pool, No, Free-to-Play,Episode 3,Heavy,Heavy,Stasis,No,,B › Average
+,Qua Nilus II,Submachine Gun,Adaptive,Legendary,The Edge of Fate, Primary, Strand,A > Strong,PvP,Portal Activities, No, The Edge of Fate,The Edge of Fate,Kinetic,Primary,Strand,No,Top-tier,A › Strong
 ,Qua Xaphan V,Machine Gun,High-Impact,Legendary,Free-to-Play, Heavy, Void,B > Average,PvE,Playlist: Gambit, No, Free-to-Play,Season 22,Heavy,Heavy,Void,No,,B › Average
 ,Quickfang,Sword,Lightweight,Legendary,Free-to-Play, Heavy, Void,D > Worst,-,World loot pool, No, Free-to-Play,Season 14,Heavy,Heavy,Void,No,,D › Worst
 ,Quicksilver Storm,Auto Rifle,Exotic,Exotic,Lightfall, Primary, Strand,B > Average,PvE,Exotic Kiosk, No, Lightfall,Season 18,Kinetic,Primary,Strand,No,,B › Average
@@ -492,7 +518,7 @@ Art,Name,Type,Archetype,Rarity,Requirements,Ammo,Element,Tier,Excels,Source,Craf
 ,Redrix's Estoc,Pulse Rifle,Legacy PR-55,Legendary,Free-to-Play, Primary, Stasis,S > Best,PvP,Crucible Competitive, No, Free-to-Play,Episode 3,Kinetic,Primary,Stasis,No,Top-tier,S › Best
 ,Reed's Regret,Linear Fusion Rifle,Precision,Legendary,The Final Shape, Heavy, Stasis,C > Weak,-,Trials of Osiris, No, The Final Shape,Season 15,Heavy,Heavy,Stasis,No,,C › Weak
 ,Reed's Regret,Linear Fusion Rifle,Precision,Legendary,The Final Shape, Heavy, Stasis,C > Weak,-,Trials of Osiris, No, The Final Shape,Season 15,Heavy,Heavy,Stasis,No,,C › Weak
-,Refusal of the Call,Glaive,Adaptive,Legendary,Episode 3: Heretic, Special, Strand,A > Strong,PvE,Heresy Activities, No, Episode 3: Heretic,Episode 3,Kinetic,Special,Strand,No,Top-tier,A › Strong
+,Refusal of the Call,Glaive,Adaptive,Legendary,Episode 3: Heresy, Special, Strand,A > Strong,PvE,Heresy Activities, No, Episode 3: Heresy,Episode 3,Kinetic,Special,Strand,No,Top-tier,A › Strong
 ,Regnant,Grenade Launcher,Adaptive,Legendary,Lightfall, Heavy, Void,A > Strong,PvE,Avalon, Yes, Lightfall,Season 20,Heavy,Heavy,Void,Craftable,Top-tier,A › Strong
 ,Relentless,Pulse Rifle,High-Impact,Legendary,Free-to-Play, Primary, Strand,A > Strong,PvP,Prophecy Dungeon, No, Free-to-Play,Season 23,Kinetic,Primary,Strand,No,Top-tier,A › Strong
 ,Resounding,Fusion Rifle,Aggressive,Legendary,Free-to-Play, Special, Strand,A > Strong,PvE,Playlist: Pursuit, No, Free-to-Play,Episode 3,Kinetic,Special,Strand,No,Top-tier,A › Strong
@@ -500,7 +526,9 @@ Art,Name,Type,Archetype,Rarity,Requirements,Ammo,Element,Tier,Excels,Source,Craf
 ,Retraced Path,Trace Rifle,Adaptive,Legendary,Free-to-Play, Special, Solar,A > Strong,PvE,Dares of Eternity, Yes, Free-to-Play,30th Anniversary event,Energy,Special,Solar,Craftable,Top-tier,A › Strong
 ,Retrofit Escapade,Machine Gun,Rapid-Fire,Legendary,The Witch Queen, Heavy, Void,B > Average,PvE,Operation: Seraph's Shield, Yes, Witch Queen,Season 19,Heavy,Heavy,Void,Craftable,,B › Average
 ,Retrofuturist,Shotgun,Lightweight,Legendary,Free-to-Play, Special, Void,B > Average,-,World loot pool, No, Free-to-Play,Season 13,Energy,Special,Void,No,,B › Average
+,Returned Memory,Sidearm,Rocket-Assisted,Legendary,Free-to-Play, Primary, Solar,S > Best,PvE,Crucible Ops, No, Free-to-Play,The Edge of Fate,Energy,Primary,Solar,No,Top-tier,S › Best
 ,Revision Zero,Pulse Rifle,Exotic,Exotic,The Witch Queen, Primary, Kinetic,B > Average,PvE,Operation: Seraph's Shield, Yes, Witch Queen,Season 19,Kinetic,Primary,Kinetic,Craftable,,B › Average
+,Ribbontail,Trace Rifle,Adaptive,Legendary,The Edge of Fate, Special, Strand,,,Edge of Fate Campaign, No, The Edge of Fate,The Edge of Fate,Kinetic,Special,Strand,No,,
 ,Riiswalker,Shotgun,Lightweight,Legendary,Free-to-Play, Special, Kinetic,B > Average,PvP,Iron Banner, No, Free-to-Play,Season 14,Kinetic,Special,Kinetic,No,,B › Average
 ,Riptide,Fusion Rifle,Rapid-Fire,Legendary,Free-to-Play, Special, Stasis,S > Best,PvE,Playlist: Crucible, No, Free-to-Play,Season 17,Kinetic,Special,Stasis,No,Top-tier,S › Best
 ,Riskrunner,Submachine Gun,Exotic,Exotic,Free-to-Play, Primary, Arc,A > Strong,PvE,Exotic Quest, No, Free-to-Play,Season 1,Energy,Primary,Arc,No,Top-tier,A › Strong
@@ -539,6 +567,7 @@ Art,Name,Type,Archetype,Rarity,Requirements,Ammo,Element,Tier,Excels,Source,Craf
 ,Shayura's Wrath,Submachine Gun,Precision,Legendary,The Final Shape, Primary, Void,S > Best,PvE + PvP,Trials of Osiris, No, The Final Shape,Season 14,Energy,Primary,Void,No,Top-tier,S › Best
 ,Shepherd's Watch,Sniper Rifle,Aggressive,Legendary,Free-to-Play, Special, Kinetic,C > Weak,-,World loot pool, No, Free-to-Play,Season 15,Kinetic,Special,Kinetic,No,,C › Weak
 ,Shining Sphere,Rocket Launcher,Adaptive,Legendary,Free-to-Play, Heavy, Arc,D > Worst,-,Iron Banner, No, Free-to-Play,Season 11,Heavy,Heavy,Arc,No,,D › Worst
+,Shoreline Dissident,Sniper Rifle,Rapid-Fire,Legendary,The Edge of Fate, Special, Void,,,Edge of Fate Campaign, No, The Edge of Fate,The Edge of Fate,Energy,Special,Void,No,,
 ,Sightline Survey,Hand Cannon,Precision,Legendary,Episode 1: Echoes, Primary, Arc,A > Strong,PvE + PvP,Echoes Activities, Yes, Episode 1: Echoes,The Final Shape,Energy,Primary,Arc,Craftable,Top-tier,A › Strong
 ,Silicon Neuroma,Sniper Rifle,Aggressive,Legendary,Free-to-Play, Special, Kinetic,A > Strong,PvE + PvP,Nightfall: The Ordeals, No, Free-to-Play,Season 16,Kinetic,Special,Kinetic,No,Top-tier,A › Strong
 ,Skyburner's Oath,Scout Rifle,Exotic,Exotic,Free-to-Play, Primary, Solar,C > Weak,-,Exotic Engram, No, Free-to-Play,Season 1,Energy,Primary,Solar,No,,C › Weak
@@ -551,6 +580,7 @@ Art,Name,Type,Archetype,Rarity,Requirements,Ammo,Element,Tier,Excels,Source,Craf
 ,Sojourner's Tale,Shotgun,Precision,Legendary,Episode 2: Revenant, Special, Solar,B > Average,PvE,Splicer Engrams, No, Episode 2: Revenant,Episode 2,Energy,Special,Solar,No,,B › Average
 ,Sola's Scar,Sword,Caster,Legendary,The Final Shape, Heavy, Solar,D > Worst,-,Trials of Osiris, No, The Final Shape,Season 13,Heavy,Heavy,Solar,No,,D › Worst
 ,Sole Survivor,Sniper Rifle,Adaptive,Legendary,Free-to-Play, Special, Arc,B > Average,PvE,Fishing, No, Free-to-Play,Season 21,Energy,Special,Arc,No,,B › Average
+,Solemn Remembrance,Hand Cannon,Precision,Legendary,Free-to-Play, Primary, Stasis,A > Strong,PvP,Crucible Competitive, No, Free-to-Play,The Edge of Fate,Kinetic,Primary,Stasis,No,Top-tier,A › Strong
 ,Someday,Shotgun,Precision,Legendary,The Final Shape, Special, Kinetic,S > Best,PvE + PvP,The Pale Heart, Yes, The Final Shape,The Final Shape,Kinetic,Special,Kinetic,Craftable,Top-tier,S › Best
 ,Something New,Hand Cannon,Aggressive,Legendary,Free-to-Play, Primary, Stasis,B > Average,-,Event: Solstice, No, Free-to-Play,Season 17,Kinetic,Primary,Stasis,No,,B › Average
 ,Song of Ir Yût,Machine Gun,Adaptive,Legendary,Free-to-Play, Heavy, Arc,A > Strong,PvE,Crota's End Raid, Yes, Free-to-Play,Season 22,Heavy,Heavy,Arc,Craftable,Top-tier,A › Strong
@@ -560,16 +590,17 @@ Art,Name,Type,Archetype,Rarity,Requirements,Ammo,Element,Tier,Excels,Source,Craf
 ,Speleologist,Machine Gun,Rapid-Fire,Legendary,Episode 1: Echoes, Heavy, Solar,A > Strong,PvE,Echoes Activities, Yes, Episode 1: Echoes,The Final Shape,Heavy,Heavy,Solar,Craftable,Top-tier,A › Strong
 ,Spoiler Alert,Sidearm,Lightweight,Legendary,Free-to-Play, Primary, Kinetic,C > Weak,-,World loot pool, No, Free-to-Play,Season 15,Kinetic,Primary,Kinetic,No,,C › Weak
 ,Staccato-46,Scout Rifle,Precision,Legendary,Free-to-Play, Primary, Solar,B > Average,PvE,Gunsmith, No, Free-to-Play,Season 17,Energy,Primary,Solar,No,,B › Average
-,Stars in Shadow,Pulse Rifle,High-Impact,Legendary,Free-to-Play, Primary, Solar,C > Weak,-,Playlist: Crucible, No, Free-to-Play,Season 12,Energy,Primary,Solar,No,,C › Weak
+,Stars in Shadow,Pulse Rifle,High-Impact,Legendary,Free-to-Play, Primary, Solar,C > Weak,-,Crucible Ops, No, Free-to-Play,The Edge of Fate,Energy,Primary,Solar,No,,C › Weak
 ,Stay Frosty,Pulse Rifle,Lightweight,Legendary,Free-to-Play, Primary, Stasis,B > Average,PvP,Event: Dawning, No, Free-to-Play,Season 19,Kinetic,Primary,Stasis,No,,B › Average
 ,Steel Sybil Z-14,Sword,Adaptive,Legendary,Free-to-Play, Heavy, Void,C > Weak,-,World loot pool, No, Free-to-Play,Season 11,Heavy,Heavy,Void,No,,C › Weak
 ,Still Hunt,Sniper Rifle,Exotic,Exotic,The Final Shape, Special, Solar,A > Strong,PvE,Exotic Quest, No, The Final Shape,The Final Shape,Energy,Special,Solar,No,Top-tier,A › Strong
 ,Stochastic Variable,Submachine Gun,Lightweight,Legendary,Free-to-Play, Primary, Arc,C > Weak,-,Xûr, No, Free-to-Play,Season 14,Energy,Primary,Arc,No,,C › Weak
-,Stormchaser,Linear Fusion Rifle,Aggressive,Legendary,Witch Queen Dungeon Key, Heavy, Arc,B > Average,PvE,Duality Dungeon, No, Episode 3: Heretic,Season 17,Heavy,Heavy,Arc,No,,B › Average
-,Stormchaser,Linear Fusion Rifle,Aggressive,Legendary,Witch Queen Dungeon Key, Heavy, Arc,B > Average,PvE,Duality Dungeon, No, Episode 3: Heretic,Season 17,Heavy,Heavy,Arc,No,,B › Average
+,Stormchaser,Linear Fusion Rifle,Aggressive,Legendary,Witch Queen Dungeon Key, Heavy, Arc,B > Average,PvE,Duality Dungeon, No,,Season 17,Heavy,Heavy,Arc,No,,B › Average
+,Stormchaser,Linear Fusion Rifle,Aggressive,Legendary,Witch Queen Dungeon Key, Heavy, Arc,B > Average,PvE,Duality Dungeon, No,,Season 17,Heavy,Heavy,Arc,No,,B › Average
 ,Strident Whistle,Combat Bow,Precision,Legendary,Free-to-Play, Primary, Solar,A > Strong,PvE,Vanguard Focusing, No, Free-to-Play,Season 17,Energy,Primary,Solar,No,Top-tier,A › Strong
 ,Sturm,Hand Cannon,Exotic,Exotic,Free-to-Play, Primary, Kinetic,D > Worst,-,Exotic Kiosk, No, Free-to-Play,Season 1,Kinetic,Primary,Kinetic,No,,D › Worst
 ,Subjunctive,Submachine Gun,Lightweight,Legendary,Free-to-Play, Primary, Arc,A > Strong,PvE,Undying, Yes, Free-to-Play,Season 23,Energy,Primary,Arc,Craftable,Top-tier,A › Strong
+,Sublimation,Scout Rifle,High-Impact,Legendary,Free-to-Play, Primary, Arc,B > Average,-,Kepler, No, Free-to-Play,The Edge of Fate,Energy,Primary,Arc,No,,B › Average
 ,Submission,Submachine Gun,Lightweight,Legendary,The Witch Queen, Primary, Kinetic,B > Average,PvE + PvP,Vow of the Disciple Raid, Yes, Witch Queen,Season 16,Kinetic,Primary,Kinetic,Craftable,,B › Average
 ,Subzero Salvo,Rocket Launcher,Precision,Legendary,Free-to-Play, Heavy, Arc,D > Worst,-,Europa, No, Free-to-Play,Season 12,Heavy,Heavy,Arc,No,,D › Worst
 ,Succession,Sniper Rifle,Aggressive,Legendary,Beyond Light Pack, Special, Kinetic,S > Best,PvE + PvP,Deep Stone Crypt Raid, Yes, Beyond Light Pack,Season 12,Kinetic,Special,Kinetic,Craftable,Top-tier,S › Best
@@ -585,6 +616,7 @@ Art,Name,Type,Archetype,Rarity,Requirements,Ammo,Element,Tier,Excels,Source,Craf
 ,Sweet Sorrow,Auto Rifle,Rapid-Fire,Legendary,The Witch Queen, Primary, Arc,B > Average,PvE,Vox Obscura, Yes, Witch Queen,Season 16,Energy,Primary,Arc,Craftable,,B › Average
 ,Swordbreaker,Shotgun,Lightweight,Legendary,Free-to-Play, Special, Strand,A > Strong,PvE,Crota's End Raid, Yes, Free-to-Play,Season 22,Kinetic,Special,Strand,Craftable,Top-tier,A › Strong
 ,Symmetry,Scout Rifle,Exotic,Exotic,Shadowkeep Pack, Primary, Arc,C > Weak,-,Exotic Kiosk, No, Shadowkeep Pack,Season 9,Energy,Primary,Arc,No,,C › Weak
+,Synanceia,Sword,Wave,Legendary,The Edge of Fate, Heavy, Solar,,,Edge of Fate Campaign, No, The Edge of Fate,The Edge of Fate,Heavy,Heavy,Solar,No,,
 ,Synchronic Roulette,Submachine Gun,Precision,Legendary,Lightfall, Primary, Strand,C > Weak,-,Terminal Overload, No, Lightfall,Season 20,Kinetic,Primary,Strand,No,,C › Weak
 ,Syncopation-53,Pulse Rifle,Adaptive,Legendary,Free-to-Play, Primary, Stasis,B > Average,PvP,Gunsmith, Yes, Free-to-Play,Season 16,Kinetic,Primary,Stasis,Craftable,,B › Average
 ,THE SWARM,Machine Gun,High-Impact,Legendary,Free-to-Play, Heavy, Arc,C > Weak,-,Nightfall: The Ordeals, No, Free-to-Play,Season 13,Heavy,Heavy,Arc,No,,C › Weak
@@ -604,14 +636,14 @@ Art,Name,Type,Archetype,Rarity,Requirements,Ammo,Element,Tier,Excels,Source,Craf
 ,Temptation's Hook,Sword,Caster,Legendary,Free-to-Play, Heavy, Arc,D > Worst,-,Arrivals Engrams, No, Free-to-Play,Episode 3,Heavy,Heavy,Arc,No,,D › Worst
 ,Terminus Horizon,Machine Gun,High-Impact,Legendary,Free-to-Play, Heavy, Arc,A > Strong,PvE,Spire of the Watcher Dungeon, No, Free-to-Play,Season 19,Heavy,Heavy,Arc,No,Top-tier,A › Strong
 ,Tessellation,Fusion Rifle,Exotic,Exotic,The Final Shape, Special, Kinetic,C > Weak,-,Pre-order bonus, No, The Final Shape,Season 22,Energy,Special,Kinetic,No,,C › Weak
-,The Call,Sidearm,Rocket-Assisted,Legendary,The Final Shape, Special, Strand,S > Best,PvE,The Pale Heart, Yes, The Final Shape,The Final Shape,Kinetic,Special,Strand,Craftable,Top-tier,S › Best
+,The Call,Sidearm,Rocket-Assisted,Legendary,The Final Shape, Special, Strand,A > Strong,PvE,The Pale Heart, Yes, The Final Shape,The Final Shape,Kinetic,Special,Strand,Craftable,Top-tier,A › Strong
 ,The Chaperone,Shotgun,Exotic,Exotic,Beyond Light Pack, Special, Kinetic,S > Best,PvP,Exotic Quest, No, Beyond Light Pack,Season 4,Kinetic,Special,Kinetic,No,Top-tier,S › Best
 ,The Colony,Grenade Launcher,Exotic,Exotic,Free-to-Play, Heavy, Void,D > Worst,-,Exotic Engram, No, Free-to-Play,Season 2,Heavy,Heavy,Void,No,,D › Worst
 ,The Comedian,Shotgun,Aggressive,Legendary,Free-to-Play, Special, Void,C > Weak,-,Nightfall: The Ordeals, No, Free-to-Play,Season 15,Energy,Special,Void,No,,C › Weak
 ,The Deicide,Shotgun,Rapid-Fire,Legendary,Free-to-Play, Special, Void,A > Strong,PvE,Xûr, No, Free-to-Play,Season 14,Energy,Special,Void,No,Top-tier,A › Strong
 ,The Domino,Sniper Rifle,Adaptive,Legendary,Free-to-Play, Special, Solar,D > Worst,-,World loot pool, No, Free-to-Play,The Final Shape,Energy,Special,Solar,No,,D › Worst
 ,The Enigma,Glaive,Adaptive,Legendary,The Witch Queen, Special, Void,B > Average,PvE,Throne World, Yes, Witch Queen,Season 16,Energy,Special,Void,Craftable,,B › Average
-,The Epicurean,Fusion Rifle,Precision,Legendary,Witch Queen Dungeon Key, Special, Void,A > Strong,-,Duality Dungeon, Yes, Episode 3: Heretic,Season 17,Energy,Special,Void,Craftable,Top-tier,A › Strong
+,The Epicurean,Fusion Rifle,Precision,Legendary,Witch Queen Dungeon Key, Special, Void,A > Strong,-,Duality Dungeon, Yes,,Season 17,Energy,Special,Void,Craftable,Top-tier,A › Strong
 ,The Eremite,Fusion Rifle,High-Impact,Legendary,Free-to-Play, Special, Solar,S > Best,PvE,Xûr, Yes, Free-to-Play,Season 22,Energy,Special,Solar,Craftable,Top-tier,S › Best
 ,The Fool's Remedy,Sidearm,SUROS Rapid-Fire,Legendary,Free-to-Play, Primary, Solar,B > Average,-,Iron Banner, No, Free-to-Play,Season 11,Energy,Primary,Solar,No,,B › Average
 ,The Forward Path,Auto Rifle,Adaptive,Legendary,Free-to-Play, Primary, Kinetic,D > Worst,-,Iron Banner, No, Free-to-Play,Season 11,Kinetic,Primary,Kinetic,No,,D › Worst
@@ -653,9 +685,12 @@ Art,Name,Type,Archetype,Rarity,Requirements,Ammo,Element,Tier,Excels,Source,Craf
 ,The Title,Submachine Gun,Aggressive,Legendary,Free-to-Play, Primary, Void,S > Best,PvE,Event: Guardian Games, No, Free-to-Play,Season 23,Energy,Primary,Void,No,Top-tier,S › Best
 ,The Vision,Sidearm,Omolon Adaptive,Legendary,Free-to-Play, Primary, Arc,C > Weak,-,Xûr, No, Free-to-Play,Season 14,Energy,Primary,Arc,No,,C › Weak
 ,The Wardcliff Coil,Rocket Launcher,Exotic,Exotic,Free-to-Play, Heavy, Arc,D > Worst,-,Exotic Engram, No, Free-to-Play,Season 1,Heavy,Heavy,Arc,No,,D › Worst
+,The When And Where,Rocket Launcher,Adaptive,Legendary,The Edge of Fate, Heavy, Stasis,,,The Desert Perpetual Raid, No, The Edge of Fate,The Edge of Fate,Heavy,Heavy,Stasis,No,,
 ,The Wizened Rebuke,Fusion Rifle,High-Impact,Legendary,Free-to-Play, Special, Arc,B > Average,PvP,Iron Banner, No, Free-to-Play,Season 17,Energy,Special,Arc,No,,B › Average
+,Theodolite,Grenade Launcher,Micro-Missile,Legendary,Free-to-Play, Special, Arc,,,Pinnacle Ops, No, Free-to-Play,The Edge of Fate,Energy,Special,Arc,No,,
 ,Thermal Erosion,Machine Gun,Rapid-Fire,Legendary,Beyond Light Pack, Heavy, Solar,C > Weak,-,Empire Hunts, No, Beyond Light Pack,Season 12,Heavy,Heavy,Solar,No,,C › Weak
 ,Thin Precipice,Sword,Vortex,Legendary,Free-to-Play, Heavy, Strand,D > Worst,-,Xûr, Yes, Free-to-Play,Season 21,Heavy,Heavy,Strand,Craftable,,D › Worst
+,Third Iteration,Scout Rifle,Exotic,Exotic,Free-to-Play, Primary, Void,,,Season Pass, No, Free-to-Play,The Edge of Fate,Energy,Primary,Void,No,,
 ,Thorn,Hand Cannon,Exotic,Exotic,Forsaken Pack, Primary, Kinetic,A > Strong,PvP,Exotic Kiosk, No, Forsaken Pack,Season 6,Kinetic,Primary,Kinetic,No,Top-tier,A › Strong
 ,Thoughtless,Sniper Rifle,Adaptive,Legendary,The Witch Queen, Special, Stasis,A > Strong,PvE + PvP,Vox Obscura, Yes, Witch Queen,Season 16,Kinetic,Special,Stasis,Craftable,Top-tier,A › Strong
 ,Threaded Needle,Linear Fusion Rifle,Precision,Legendary,Free-to-Play, Heavy, Void,C > Weak,-,World loot pool, No, Free-to-Play,Season 13,Heavy,Heavy,Void,No,,C › Weak
@@ -671,6 +706,7 @@ Art,Name,Type,Archetype,Rarity,Requirements,Ammo,Element,Tier,Excels,Source,Craf
 ,Tommy's Matchbook,Auto Rifle,Exotic,Exotic,Shadowkeep Pack, Primary, Solar,S > Best,PvE + PvP,Exotic Kiosk, No, Shadowkeep Pack,Season 10,Energy,Primary,Solar,No,Top-tier,S › Best
 ,Tomorrow's Answer,Rocket Launcher,High-Impact,Legendary,The Final Shape, Heavy, Void,A > Strong,PvE,Trials of Osiris, No, The Final Shape,Episode 2,Heavy,Heavy,Void,No,Top-tier,A › Strong
 ,Touch of Malice,Scout Rifle,Exotic,Exotic,Free-to-Play, Primary, Kinetic,C > Weak,-,King's Fall Raid, No, Free-to-Play,Season 18,Kinetic,Primary,Kinetic,No,,C › Weak
+,Trachinus,Shotgun,Rapid-Fire,Legendary,The Edge of Fate, Special, Stasis,,,Edge of Fate Campaign, No, The Edge of Fate,The Edge of Fate,Kinetic,Special,Stasis,No,,
 ,Tractor Cannon,Shotgun,Exotic,Exotic,Free-to-Play, Heavy, Void,S > Best,PvE,Exotic Engram, No, Free-to-Play,Season 1,Heavy,Heavy,Void,No,Top-tier,S › Best
 ,Tranquility,Sniper Rifle,Adaptive,Legendary,Free-to-Play, Special, Kinetic,D > Worst,-,Moon, No, Free-to-Play,Season 14,Kinetic,Special,Kinetic,No,,D › Worst
 ,Transfiguration,Scout Rifle,High-Impact,Legendary,Forsaken Pack, Primary, Kinetic,B > Average,PvE,Last Wish Raid, Yes, Forsaken Pack,Season 4,Kinetic,Primary,Kinetic,Craftable,,B › Average
@@ -689,16 +725,17 @@ Art,Name,Type,Archetype,Rarity,Requirements,Ammo,Element,Tier,Excels,Source,Craf
 ,Two-Tailed Fox,Rocket Launcher,Exotic,Exotic,Free-to-Play, Heavy, Void,C > Weak,-,Exotic Engram, No, Free-to-Play,Season 4,Heavy,Heavy,Void,No,,C › Weak
 ,Typhon GL5,Grenade Launcher,Adaptive,Legendary,Free-to-Play, Heavy, Stasis,A > Strong,PvE,Gunsmith, No, Free-to-Play,Season 16,Heavy,Heavy,Stasis,No,Top-tier,A › Strong
 ,Tyranny of Heaven,Combat Bow,Lightweight,Legendary,Forsaken Pack, Primary, Solar,A > Strong,PvE,Last Wish Raid, Yes, Forsaken Pack,Season 4,Energy,Primary,Solar,Craftable,Top-tier,A › Strong
+,Ulterior Observation,Machine Gun,Aggressive,Legendary,Free-to-Play, Heavy, Stasis,A > Strong,PvE + PvP,Kepler, No, Free-to-Play,The Edge of Fate,Heavy,Heavy,Stasis,No,Top-tier,A › Strong
 ,Under Your Skin,Combat Bow,Precision,Legendary,The Witch Queen, Primary, Void,S > Best,PvE,Vox Obscura, Yes, Witch Queen,Season 16,Energy,Primary,Void,Craftable,Top-tier,S › Best
 ,Undercurrent,Grenade Launcher,Wave,Legendary,Free-to-Play, Special, Arc,B > Average,PvE,Nightfall: The Ordeals, No, Free-to-Play,Season 23,Energy,Special,Arc,No,,B › Average
 ,Unending Tempest,Submachine Gun,Precision,Legendary,Free-to-Play, Primary, Stasis,B > Average,PvE + PvP,Playlist: Crucible, No, Free-to-Play,Season 22,Kinetic,Primary,Stasis,No,,B › Average
 ,Unexpected Resurgence,Glaive,Adaptive,Legendary,The Final Shape, Special, Arc,S > Best,PvE + PvP,Trials of Osiris, No, The Final Shape,Season 21,Energy,Special,Arc,No,Top-tier,S › Best
-,Unforgiven,Submachine Gun,Aggressive,Legendary,Witch Queen Dungeon Key, Primary, Void,C > Weak,-,Duality Dungeon, No, Episode 3: Heretic,Season 17,Energy,Primary,Void,No,,C › Weak
+,Unforgiven,Submachine Gun,Aggressive,Legendary,Witch Queen Dungeon Key, Primary, Void,C > Weak,-,Duality Dungeon, No,,Season 17,Energy,Primary,Void,No,,C › Weak
 ,Unloved,Hand Cannon,Heavy Burst,Legendary,The Final Shape Dungeon Key, Primary, Strand,A > Strong,PvE,Sundered Doctrine Dungon, No, The Final Shape Dungeon Key,Episode 3,Kinetic,Primary,Strand,No,Top-tier,A › Strong
 ,Unsworn,Trace Rifle,Adaptive,Legendary,The Final Shape Dungeon Key, Special, Strand,S > Best,PvE,Sundered Doctrine Dungon, No, The Final Shape Dungeon Key,Episode 3,Kinetic,Special,Strand,No,Top-tier,S › Best
 ,Until Its Return,Shotgun,Rapid-Fire,Legendary,Free-to-Play, Special, Strand,S > Best,PvE,Xûr, Yes, Free-to-Play,Season 21,Kinetic,Special,Strand,Craftable,Top-tier,S › Best
 ,Unvoiced,Shotgun,Pinpoint Slug,Legendary,The Final Shape Dungeon Key, Special, Void,S > Best,PvE + PvP,Sundered Doctrine Dungon, No, The Final Shape Dungeon Key,Episode 3,Energy,Special,Void,No,Top-tier,S › Best
-,Unwavering Duty,Machine Gun,Adaptive,Legendary,The Final Shape, Heavy, Solar,S > Best,PvE,Trials of Osiris, No, The Final Shape,Season 19,Heavy,Heavy,Solar,No,Top-tier,S › Best
+,Unwavering Duty,Machine Gun,Adaptive,Legendary,The Edge of Fate, Heavy, Solar,S > Best,PvE,Trials of Osiris, No, The Edge of Fate,The Edge of Fate,Heavy,Heavy,Solar,No,Top-tier,S › Best
 ,Unworthy,Scout Rifle,Rapid-Fire,Legendary,The Final Shape Dungeon Key, Primary, Arc,S > Best,PvE + PvP,Sundered Doctrine Dungon, No, The Final Shape Dungeon Key,Episode 3,Energy,Primary,Arc,No,Top-tier,S › Best
 ,Uzume RR4,Sniper Rifle,Adaptive,Legendary,Free-to-Play, Special, Solar,A > Strong,PvE + PvP,Nightfall: The Ordeals, No, Free-to-Play,Season 14,Energy,Special,Solar,No,Top-tier,A › Strong
 ,VS Chill Inhibitor,Grenade Launcher,Rapid-Fire,Legendary,The Final Shape Dungeon Key, Heavy, Stasis,S > Best,PvE,Vesper's Host Dungeon, No, The Final Shape Dungeon Key,Episode 2,Heavy,Heavy,Stasis,No,Top-tier,S › Best
@@ -722,9 +759,10 @@ Art,Name,Type,Archetype,Rarity,Requirements,Ammo,Element,Tier,Excels,Source,Craf
 ,Warden's Law,Hand Cannon,Heavy Burst,Legendary,Free-to-Play, Primary, Kinetic,S > Best,PvE + PvP,Nightfall: The Ordeals, No, Free-to-Play,Season 22,Kinetic,Primary,Kinetic,No,Top-tier,S › Best
 ,Warlord's Spear,Trace Rifle,Adaptive,Legendary,Free-to-Play, Special, Arc,A > Strong,PvE,Iron Banner, No, Free-to-Play,Episode 3,Energy,Special,Arc,No,Top-tier,A › Strong
 ,Wastelander M5,Shotgun,Lightweight,Legendary,Free-to-Play, Special, Kinetic,A > Strong,PvE + PvP,Dares of Eternity, Yes, Free-to-Play,30th Anniversary event,Kinetic,Special,Kinetic,Craftable,Top-tier,A › Strong
-,Watchful Eye,Machine Gun,Aggressive,Legendary,Episode 3: Heretic, Heavy, Arc,S > Best,PvE + PvP,Heresy Activities, No, Episode 3: Heretic,Episode 3,Heavy,Heavy,Arc,No,Top-tier,S › Best
+,Watchful Eye,Machine Gun,Aggressive,Legendary,Episode 3: Heresy, Heavy, Arc,S > Best,PvE + PvP,Heresy Activities, No, Episode 3: Heresy,Episode 3,Heavy,Heavy,Arc,No,Top-tier,S › Best
 ,Wavesplitter,Trace Rifle,Exotic,Exotic,Free-to-Play, Special, Void,C > Weak,-,Exotic Engram, No, Free-to-Play,Season 4,Energy,Special,Void,No,,C › Weak
 ,Wendigo GL3,Grenade Launcher,Adaptive,Legendary,Free-to-Play, Heavy, Arc,A > Strong,PvE + PvP,Nightfall: The Ordeals, No, Free-to-Play,Season 19,Heavy,Heavy,Arc,No,Top-tier,A › Strong
+,Whirling Ovation,Rocket Launcher,Exotic,Exotic,The Edge of Fate, Heavy, Strand,,,The Desert Perpetual Raid, No, The Edge of Fate,The Edge of Fate,Heavy,Heavy,Strand,No,,
 ,Whisper of the Worm,Sniper Rifle,Exotic,Exotic,Free-to-Play, Heavy, Solar,A > Strong,PvE,The Whisper, Yes, Free-to-Play,Season 3,Heavy,Heavy,Solar,Craftable,Top-tier,A › Strong
 ,Whispering Slab,Combat Bow,Lightweight,Legendary,Free-to-Play, Primary, Kinetic,C > Weak,-,Arrivals Engrams, No, Free-to-Play,Episode 3,Kinetic,Primary,Kinetic,No,,C › Weak
 ,Whistler's Whim,Combat Bow,Lightweight,Legendary,The Final Shape, Primary, Kinetic,A > Strong,PvE + PvP,Trials of Osiris, No, The Final Shape,Season 18,Kinetic,Primary,Kinetic,No,Top-tier,A › Strong
@@ -745,6 +783,7 @@ Art,Name,Type,Archetype,Rarity,Requirements,Ammo,Element,Tier,Excels,Source,Craf
 ,Xenoclast IV,Shotgun,Lightweight,Legendary,Free-to-Play, Special, Arc,B > Average,PvP,Vanguard Focusing, No, Free-to-Play,Season 12,Energy,Special,Arc,No,,B › Average
 ,Xenophage,Machine Gun,Exotic,Exotic,Shadowkeep Pack, Heavy, Solar,B > Average,PvE,Pit of Heresy Dungeon, No, Shadowkeep Pack,Season 8,Heavy,Heavy,Solar,No,,B › Average
 ,Yarovit MG4,Submachine Gun,Lightweight,Legendary,Free-to-Play, Primary, Stasis,C > Weak,-,World loot pool, No, Free-to-Play,The Final Shape,Kinetic,Primary,Stasis,No,,C › Weak
+,Yeartide Apex,Submachine Gun,Lightweight,Legendary,Free-to-Play, Primary, Solar,,,Event: Solstice, No, Free-to-Play,The Edge of Fate,Energy,Primary,Solar,No,,
 ,Yesterday's Question,Hand Cannon,Heavy Burst,Legendary,The Final Shape, Primary, Arc,S > Best,PvE,Trials of Osiris, No, The Final Shape,Episode 2,Energy,Primary,Arc,No,Top-tier,S › Best
 ,Yesteryear,Pulse Rifle,Adaptive,Legendary,Free-to-Play, Primary, Void,B > Average,PvE + PvP,Playlist: Gambit, No, Free-to-Play,Season 18,Energy,Primary,Void,No,,B › Average
 ,Zaouli's Bane,Hand Cannon,Adaptive,Legendary,Free-to-Play, Primary, Solar,S > Best,PvE,King's Fall Raid, Yes, Free-to-Play,Season 18,Energy,Primary,Solar,Craftable,Top-tier,S › Best
